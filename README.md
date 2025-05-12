@@ -8,4 +8,4 @@ Este projeto foi desenvolvido durante o estudo da trilha Discover da Rocketseat,
   - Estilização com **CSS**;
   - Aplicação de funcionalidades e lógica de programação com **JavaScript**.
 
-  <img width=620px alt="app" src="./imgs/teladark.png">                                      <img width=620px alt="app" src="./imgs/telalight.png">          
+  <img width=620px alt="app" src="./assets/teladark.png">                                      <img width=620px alt="app" src="./assets/telalight.png">          
